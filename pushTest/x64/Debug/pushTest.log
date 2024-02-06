@@ -1,0 +1,5 @@
+﻿  Stack.cpp
+C:\Users\LRex4\source\repos\pushTest\pushTest\Stack.cpp(62,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\LRex4\source\repos\pushTest\pushTest\Stack.cpp(132,21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\LRex4\source\repos\pushTest\pushTest\Stack.cpp(235): warning C4715: 'operator<<': not all control paths return a value
+  pushTest.vcxproj -> C:\Users\LRex4\source\repos\pushTest\x64\Debug\Stack_Test.exe
